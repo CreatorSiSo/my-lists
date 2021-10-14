@@ -4,42 +4,42 @@
 
 - 3d
     - [x] blender
-    - [] houdini ✔️
-    - [] unity ✔️
-    - [] unreal-engine ✔️
-    - [] quixel mixer + bridge
+    - [ ] houdini ✔️
+    - [ ] unity ✔️
+    - [ ] unreal-engine ✔️
+    - [ ] quixel mixer + bridge
     - [x] fspy
 - 2d
     - [x] inkscape
     - [x] krita
-    - [] figma ✔️
-    - [] pure-ref
-    - [] font-base
-    - [] xn-convert
+    - [ ] figma ✔️
+    - [ ] pure-ref
+    - [ ] font-base
+    - [ ] xn-convert
 - Video
-    - [] Editors
-        - [] davinci-resolve ✔️
-    - [] Viewers
+    - [ ] Editors
+        - [ ] davinci-resolve ✔️
+    - [ ] Viewers
         - [x] vlc
-        - [] djv
-    - [] Recording
-        - [] obs ✔️
+        - [ ] djv
+    - [ ] Recording
+        - [ ] obs ✔️
 
 ## Messengers
 
-- [] discord
-- [] telegram ✔️
-- [] mattermost ✔️
+- [ ] discord
+- [ ] telegram ✔️
+- [ ] mattermost ✔️
 
 ## PC Tools
 
-- [] hw-info
+- [ ] hw-info
 - USB Flashing
-    - [] balena-etcher
-    - [] (rufus)
+    - [ ] balena-etcher
+    - [ ] (rufus)
 - Drivers
-    - [] pentablet
-    - [] sapphire trixx
+    - [ ] pentablet
+    - [ ] sapphire trixx
 
 ## Productivity
 
@@ -51,11 +51,11 @@
 ## Development
 
 - Text Editors + IDEs
-    - [] vscode ✔️
+    - [ ] vscode ✔️
 - Tools
-    - [] cmake ✔️
-    - [] clang ✔️
-    - [] ninja ✔️
+    - [ ] cmake ✔️
+    - [ ] clang ✔️
+    - [ ] ninja ✔️
     - [x] node
     - [x] npm
     - [x] yarn
@@ -63,23 +63,23 @@
     - [x] dart-sdk
 - Git
     - [x] git
-    - [] github-desktop ✔️
+    - [ ] github-desktop ✔️
 - Browsers
     - [x] firefox
-    - [] chrome(ium) ✔️
+    - [ ] chrome(ium) ✔️
 
 ## Gaming
 
 - Stores/Launchers
     - [x] steam
-    - [] epic-games-launcher
+    - [ ] epic-games-launcher
 - Minecraft
     - [x] minecraft
-    - [] jre ✔️
-    - [] pixelstacker
-    - [] blockbench
+    - [ ] jre ✔️
+    - [ ] pixelstacker
+    - [ ] blockbench
 - cheat-engine
 
 ## Other
 
-- [] authy
+- [ ] authy
