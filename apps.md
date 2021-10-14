@@ -1,13 +1,85 @@
 # APPS
 
-balena-etcher, (rufus), pentablet-driver, sapphire trixx, hw-info
+## Creative
 
-discord, authy, telegram, mattermost
+- 3d
+    - blender ☑️
+    - houdini ✔️
+    - unity ✔️
+    - unreal-engine ✔️
+    - quixel mixer + bridge
+    - fspy ☑️
+- 2d
+    - inkscape ☑️
+    - krita ☑️
+    - figma ✔️
+    - pure-ref
+    - font-base
+    - xn-convert
+- Video
+    - Editors
+        - davinci-resolve ✔️
+    - Viewers
+        - vlc ☑️
+        - djv
+    - Recording
+        - obs ✔️
 
-thunderbird, libre-office, vlc
+## Messengers
 
-vscode, firefox, chrome(ium), node, npm, dart-sdk, ninja, clang, docker, cmake, github-desktop, yarn, git
+- discord
+- telegram ✔️
+- mattermost ✔️
 
-blender, inkscape, krita, figma, fspy, quixel mixer + bridge, obs, font-base, houdini, unity, unreal-engine, xn-convert, davinci-resolve, djv, pure-ref
+## PC Tools
 
-epic-games-launcher, steam, minecraft, jre, pixelstacker, blockbench, cheat-engine
+- hw-info
+- USB Flashing
+    - balena-etcher
+    - (rufus)
+- Drivers
+    - pentablet
+    - sapphire trixx
+
+## Productivity
+
+- E-Mail
+    - thunderbird ☑️
+- Office Suite
+    - libre-office ☑️
+
+## Development
+
+- Text Editors + IDEs
+    - vscode ✔️
+- Tools
+    - cmake ✔️
+    - clang ✔️
+    - ninja ✔️
+    - node ☑️
+    - npm ☑️
+    - yarn ☑️
+    - docker ☑️
+    - dart-sdk ☑️
+- Git
+    - git ☑️
+    - github-desktop ✔️
+- Browsers
+    - firefox ☑️
+    - chrome(ium) ✔️
+
+## Gaming
+
+- Stores/Launchers
+    - steam ☑️
+    - epic-games-launcher
+- Minecraft
+    - minecraft ☑️
+    - jre ✔️
+    - pixelstacker
+    - blockbench
+- cheat-engine
+
+## Other
+
+- authy
