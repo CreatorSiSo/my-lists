@@ -3,83 +3,83 @@
 ## Creative
 
 - 3d
-    - blender ☑️
-    - houdini ✔️
-    - unity ✔️
-    - unreal-engine ✔️
-    - quixel mixer + bridge
-    - fspy ☑️
+    - [x] blender
+    - [] houdini ✔️
+    - [] unity ✔️
+    - [] unreal-engine ✔️
+    - [] quixel mixer + bridge
+    - [x] fspy
 - 2d
-    - inkscape ☑️
-    - krita ☑️
-    - figma ✔️
-    - pure-ref
-    - font-base
-    - xn-convert
+    - [x] inkscape
+    - [x] krita
+    - [] figma ✔️
+    - [] pure-ref
+    - [] font-base
+    - [] xn-convert
 - Video
-    - Editors
-        - davinci-resolve ✔️
-    - Viewers
-        - vlc ☑️
-        - djv
-    - Recording
-        - obs ✔️
+    - [] Editors
+        - [] davinci-resolve ✔️
+    - [] Viewers
+        - [x] vlc
+        - [] djv
+    - [] Recording
+        - [] obs ✔️
 
 ## Messengers
 
-- discord
-- telegram ✔️
-- mattermost ✔️
+- [] discord
+- [] telegram ✔️
+- [] mattermost ✔️
 
 ## PC Tools
 
-- hw-info
+- [] hw-info
 - USB Flashing
-    - balena-etcher
-    - (rufus)
+    - [] balena-etcher
+    - [] (rufus)
 - Drivers
-    - pentablet
-    - sapphire trixx
+    - [] pentablet
+    - [] sapphire trixx
 
 ## Productivity
 
 - E-Mail
-    - thunderbird ☑️
+    - [x] thunderbird
 - Office Suite
-    - libre-office ☑️
+    - [x] libre-office
 
 ## Development
 
 - Text Editors + IDEs
-    - vscode ✔️
+    - [] vscode ✔️
 - Tools
-    - cmake ✔️
-    - clang ✔️
-    - ninja ✔️
-    - node ☑️
-    - npm ☑️
-    - yarn ☑️
-    - docker ☑️
-    - dart-sdk ☑️
+    - [] cmake ✔️
+    - [] clang ✔️
+    - [] ninja ✔️
+    - [x] node
+    - [x] npm
+    - [x] yarn
+    - [x] docker
+    - [x] dart-sdk
 - Git
-    - git ☑️
-    - github-desktop ✔️
+    - [x] git
+    - [] github-desktop ✔️
 - Browsers
-    - firefox ☑️
-    - chrome(ium) ✔️
+    - [x] firefox
+    - [] chrome(ium) ✔️
 
 ## Gaming
 
 - Stores/Launchers
-    - steam ☑️
-    - epic-games-launcher
+    - [x] steam
+    - [] epic-games-launcher
 - Minecraft
-    - minecraft ☑️
-    - jre ✔️
-    - pixelstacker
-    - blockbench
+    - [x] minecraft
+    - [] jre ✔️
+    - [] pixelstacker
+    - [] blockbench
 - cheat-engine
 
 ## Other
 
-- authy
+- [] authy
