@@ -3,33 +3,33 @@
 ## Creative
 
 - 3d
-    - [x] blender
-    - [ ] houdini ✔️
-    - [ ] unity ✔️
-    - [ ] unreal-engine ✔️
+    - [ ] blender
+    - [ ] houdini
+    - [ ] unity
+    - [ ] unreal-engine
     - [ ] quixel mixer + bridge
-    - [x] fspy
+    - [ ] fspy
 - 2d
-    - [x] inkscape
-    - [x] krita
-    - [ ] figma ✔️
+    - [ ] inkscape
+    - [ ] krita
+    - [ ] figma
     - [ ] pure-ref
     - [ ] font-base
     - [ ] xn-convert
 - Video
     - [ ] Editors
-        - [ ] davinci-resolve ✔️
+        - [ ] davinci-resolve
     - [ ] Viewers
-        - [x] vlc
+        - [ ] vlc
         - [ ] djv
     - [ ] Recording
-        - [ ] obs ✔️
+        - [ ] obs
 
 ## Messengers
 
 - [ ] discord
-- [ ] telegram ✔️
-- [ ] mattermost ✔️
+- [ ] telegram
+- [ ] mattermost
 
 ## PC Tools
 
@@ -44,38 +44,40 @@
 ## Productivity
 
 - E-Mail
-    - [x] thunderbird
+    - [ ] thunderbird
 - Office Suite
-    - [x] libre-office
+    - [ ] libre-office
 
 ## Development
 
 - Text Editors + IDEs
-    - [ ] vscode ✔️
+    - [ ] vscode
 - Tools
-    - [ ] cmake ✔️
-    - [ ] clang ✔️
-    - [ ] ninja ✔️
-    - [x] node
-    - [x] npm
-    - [x] yarn
-    - [x] docker
-    - [x] dart-sdk
+    - [ ] cargo
+    - [ ] rustup
+    - [ ] cmake
+    - [ ] clang
+    - [ ] ninja
+    - [ ] node
+    - [ ] npm
+    - [ ] yarn
+    - [ ] docker
+    - [ ] dart-sdk
 - Git
-    - [x] git
-    - [ ] github-desktop ✔️
+    - [ ] git
+    - [ ] __TODO__ vscode extensions
 - Browsers
-    - [x] firefox
-    - [ ] chrome(ium) ✔️
+    - [ ] firefox
+    - [ ] chromeium
 
 ## Gaming
 
 - Stores/Launchers
-    - [x] steam
+    - [ ] steam
     - [ ] epic-games-launcher
 - Minecraft
-    - [x] minecraft
-    - [ ] jre ✔️
+    - [ ] minecraft
+    - [ ] jre
     - [ ] pixelstacker
     - [ ] blockbench
 - cheat-engine
